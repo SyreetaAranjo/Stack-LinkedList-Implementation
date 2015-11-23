@@ -20,10 +20,6 @@ Source CODE:
 ------------
 C++ programs to implement the Stack ADT 
 /* Write C++ programs to implement the Stack ADT */
-#include<iostream>
-#include<conio.h>
-#include<stdlib.h>
-using namespace std;
 main()
 {
      int ch;
